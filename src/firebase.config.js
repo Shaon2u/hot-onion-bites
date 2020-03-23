@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDq3cQZxd69JY3nRZiPauoHoBK72MDQn3E",
-    authDomain: "ema-john-ecom.firebaseapp.com",
-    databaseURL: "https://ema-john-ecom.firebaseio.com",
-    projectId: "ema-john-ecom",
-    storageBucket: "ema-john-ecom.appspot.com",
-    messagingSenderId: "562933291583",
-    appId: "1:562933291583:web:bf7bda1ebfa9c129fff68a"
-  };
+  apiKey: "AIzaSyAmUnK55D9qFgAPxiQ8-WNouEJu7KvYn3Q",
+  authDomain: "hot-onion-bites.firebaseapp.com",
+  databaseURL: "https://hot-onion-bites.firebaseio.com",
+  projectId: "hot-onion-bites",
+  storageBucket: "hot-onion-bites.appspot.com",
+  messagingSenderId: "482307670237",
+  appId: "1:482307670237:web:860b487d2fa3bcea1c9b34"
+};
 
-  export default firebaseConfig;
+export default firebaseConfig;

@@ -1,0 +1,31 @@
+.top-header img{
+    height: 60px;
+    margin-right: 20px;
+    position: relative;
+}
+
+.top-header{
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+nav{
+    background-color: #E51A4B;
+    border-top-left-radius: 50px ;
+    border-bottom-right-radius: 50px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+
+nav a:hover{
+    background-color:  #D21240;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.cart-icon-header {
+    cursor: pointer;
+    text-decoration: none;
+}

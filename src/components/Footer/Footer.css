@@ -1,0 +1,10 @@
+.footer-bg{
+    background-color: #FAEBBD;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.footer-bg h5{
+    color: #F91944;
+}
